@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      B Corp       0.20      0.34      0.25       197
+  Fair Trade       0.23      0.18      0.20       186
+        GOTS       0.24      0.19      0.21       210
+        None       0.23      0.20      0.21       201
+    OEKO-TEX       0.20      0.17      0.18       206
+
+    accuracy                           0.21      1000
+   macro avg       0.22      0.21      0.21      1000
+weighted avg       0.22      0.21      0.21      1000
